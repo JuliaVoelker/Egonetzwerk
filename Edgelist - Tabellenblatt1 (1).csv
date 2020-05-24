@@ -1,0 +1,17 @@
+from,to,weight,duration,relationship
+Ego,Stephanie,4,3,10
+Ego,Laura,3,2,10
+Ego,Eileen,3,3,10
+Ego,Karolin,4,1,6
+Stephanie,Ego,4,3,10
+Laura,Ego,3,2,10
+Eileen,Ego,3,3,10
+Karolin,Ego,4,1,6
+Stephanie,Laura,1,2,10
+Laura,Stephanie,1,2,10
+Eileen,Stephanie,2,3,10
+Stephanie,Eileen,2,3,10
+Eileen,Laura,1,2,10
+Laura,Eileen,1,2,10
+Karolin,Stephanie,1,1,10
+Stephanie,Karolin,1,1,10
